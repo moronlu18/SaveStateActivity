@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SaveStateActivity</string>
+    <string name="txvQuestion">Seleccione la respuesta correcta: </string>
+</resources>
