@@ -30,7 +30,7 @@ override fun onRestoreInstanceState(savedInstanceState: Bundle) {
 ```
 <br />
 
-<h2>Componente Listview y Adapter</h2> 
+<h2>Componente RecyclerView y Adapter</h2> 
 Para entender el código de este
 ejercicio explicamos los siguientes conceptos que aún no se han
 estudiado:
