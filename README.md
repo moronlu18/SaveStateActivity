@@ -1,4 +1,4 @@
-<<h1>Funcionalidad</h1> Ejemplo que muestra cómo guardar el **estado
+<h1>Funcionalidad</h1> Ejemplo que muestra cómo guardar el **estado
 dinámico** (opción seleccionada por el usuario) de una actividad. En el
 ejemplo se muestra una lista de respuestas a una pregunta. Cada item de
 la lista está formado por una vista personalizada que contiene un
